@@ -1,0 +1,108 @@
+doctype html5
+html
+    head
+        title Colegio Madre Gabriela de San Martin
+        meta(charset='utf-8')
+
+        link(rel='stylesheet', href='css/reset.css')
+        link(rel='stylesheet', href='css/bootstrap.css')
+        link(rel='stylesheet', href='style.css')
+        link(rel='stylesheet', href='css/media-queries.css')
+        link(rel="stylesheet" type="text/css" href="MyFontsWebfontsKit.css")
+    body
+        div.container
+            header.header
+                figure.pull-left#mainLogo
+                    img(src='imgs/logo_menu.png')
+                    figcaption Colegio Madre Gabriela
+                //ul.nav.nav-pills.pull-right
+                    li.active: a(href='index.html') Home
+                    li: a(href='nosotros.html') Nosotros
+                    li: a(href='lecturas.html') Lecturas
+                    li: a(href='#') Contacto
+            div#pestanas
+                ul
+                    li#home.active: a(href='#') Home
+                    li#nosotros: a(href='nosotros.html') Nosotros
+                    li#lecturas: a(href='lecturas.html') Lecturas
+                    li#estrategias: a(href='estrategias.html') Estrategias
+                    li#contacto: a.iframe(href='contacto.html') Contactános
+                    div.triangleRight.contactoTriangle
+
+            div.slider
+                img(src="imgs/col.png")
+
+        div.container
+            main.micontainer
+
+                section.col-lg-12.cpestana1
+                    h4 Noticias
+                    div.triangleDown.noticiasTriangle
+
+                    article.entry
+                        div.pull-left.circleContainer
+                            figure.pull-right.entryFigure
+                                img(src='imgs/dummy.jpg')
+                        h2.entryTitle NOTICIA DE PRUEBA
+                        //span.entryDate Abril 5 2014
+                        p.
+                          Sweet biscuit chocolate pie sweet. Toffee icing carrot cake sesame snaps tiramisu marshmallow sweet marshmallow halvah. Macaroon pie powder ice cream soufflé gingerbread. Topping donut bear claw. Icing sugar plum jelly-o candy canes pudding wafer gummi bears. Gummies cupcake tiramisu chocolate cake. Tootsie roll bonbon tiramisu. Ice cream tootsie roll gingerbread applicake croissant powder. Cotton candy jujubes soufflé bonbon pudding. Pudding bear claw muffin bonbon pie. Cookie macaroon unerdwear.com pastry lemon drops caramels. Cookie muffin carrot cake muffin sesame snaps biscuit caramels bear claw topping. Cheesecake toffee ice cream jelly beans lollipop pudding candy canes croissant toffee. Jujubes candy canes candy canes tootsie roll candy canes cake gummi bears marshmallow carrot cake.
+                        a.readMore(href='single.html') Leer más
+                    div.spaceBar
+
+                    article.entry
+                        div.pull-left.circleContainer
+                                figure.pull-right.entryFigure
+                                    img(src='imgs/dummy.jpg')
+                        h2.entryTitle NOTICIA DE PRUEBA
+                        //span.entryDate Abril 5 2014
+                        p.
+                          Sweet biscuit chocolate pie sweet. Toffee icing carrot cake sesame snaps tiramisu marshmallow sweet marshmallow halvah. Macaroon pie powder ice cream soufflé gingerbread. Topping donut bear claw. Icing sugar plum jelly-o candy canes pudding wafer gummi bears. Gummies cupcake tiramisu chocolate cake. Tootsie roll bonbon tiramisu. Ice cream tootsie roll gingerbread applicake croissant powder. Cotton candy jujubes soufflé bonbon pudding. Pudding bear claw muffin bonbon pie. Cookie macaroon unerdwear.com pastry lemon drops caramels. Cookie muffin carrot cake muffin sesame snaps biscuit caramels bear claw topping. Cheesecake toffee ice cream jelly beans lollipop pudding candy canes croissant toffee. Jujubes candy canes candy canes tootsie roll candy canes cake gummi bears marshmallow carrot cake.
+                        a.readMore(href='single.html') Leer más
+                    div.spaceBar
+
+                    article.entry
+                        div.pull-left.circleContainer
+                            figure.pull-right.entryFigure
+                                img(src='imgs/dummy.jpg')
+                        h2.entryTitle NOTICIA DE PRUEBA
+                        //span.entryDate Abril 5 2014
+                        p.
+                          Sweet biscuit chocolate pie sweet. Toffee icing carrot cake sesame snaps tiramisu marshmallow sweet marshmallow halvah. Macaroon pie powder ice cream soufflé gingerbread. Topping donut bear claw. Icing sugar plum jelly-o candy canes pudding wafer gummi bears. Gummies cupcake tiramisu chocolate cake. Tootsie roll bonbon tiramisu. Ice cream tootsie roll gingerbread applicake croissant powder. Cotton candy jujubes soufflé bonbon pudding. Pudding bear claw muffin bonbon pie. Cookie macaroon unerdwear.com pastry lemon drops caramels. Cookie muffin carrot cake muffin sesame snaps biscuit caramels bear claw topping. Cheesecake toffee ice cream jelly beans lollipop pudding candy canes croissant toffee. Jujubes candy canes candy canes tootsie roll candy canes cake gummi bears marshmallow carrot cake.
+                        a.readMore(href='single.html') Leer más
+                    div.spaceBar
+
+                ul.pageNavi.nav
+                    li.active: a(href='#') 1
+                    li: a(href='#') 2
+                    li: a(href='#') 3
+                    li: a(href='#') 4
+                    li: a(href='#') 5
+
+                //aside.col-sm-4
+                    div.sidebar-module
+                        h4 Lecturas
+                        ul
+                            li
+                                figure
+                                p.sideCatDesc.
+                                  Aweet biscuit chocolate pie sweet. Toffee
+                                  Bweet biscuit chocolate pie sweet. Toffee
+                                  Cweet biscuit chocolate pie sweet. Toffee
+                                  Dweet biscuit chocolate pie sweet. Toffee
+                                a.sideCat(href='#') Leer más
+                            li
+                                figure
+                                p.sideCatDesc.
+                                  Sweet biscuit chocolate pie sweet. Toffee
+                                a.sideCat(href='#') Leer más
+                            li
+                                figure
+                                p.sideCatDesc.
+                                  Sweet biscuit chocolate pie sweet. Toffee
+                                a.sideCat(href='#') Leer más
+
+    script(src='http://code.jquery.com/jquery-latest.min.js' type='text/javascript')
+    script(src='js/script.js' type='text/javascript')
+    <link rel="stylesheet" href="colorbox.css">
+    <script src="jquery.colorbox-min.js"></script>
