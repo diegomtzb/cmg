@@ -19,7 +19,7 @@
         );
         wp_nav_menu($menuConf);
         ?>
-        <a href="<?= get_bloginfo('home'); ?>/contacto" class="iframe cboxElement" id="contacto">Contactános</a>
+        <a href="<?= get_bloginfo('home'); ?>/contacto" class="iframe cboxElement" id="contacto">Contáctanos</a>
         <a href="#" id="notas">Notas</a>
     </div>
 </div>

@@ -384,6 +384,10 @@ main section h4 {
     -moz-box-shadow: inset 0px 4px 4px 0px rgba(0,0,0,0.3), inset 0px -4px 4px 0px rgba(0,0,0,0.3);
     box-shadow: inset 0px 4px 4px 0px rgba(0,0,0,0.3), inset 0px -4px 4px 0px rgba(0,0,0,0.3);
 }
+
+#sgc #sgc_content{
+    min-height: 300px;
+}
 #nosotros-section div#quienesSomos {
     display: block;
 }
@@ -395,7 +399,7 @@ main section h4 {
     font-size: 1.3em;
 }
 #nosotros-section li {
-    font-size: 1.3em;
+    font-size: 1em;
 }
 #quienesSomos .descripcion {
     width: 100%;
@@ -554,6 +558,8 @@ a.acerca {
 }
 #pestanas li:nth-of-type(4) {
     background-color: #25aae1;
+    font-size: 1em;
+    padding: 3px 15px;
 }
 #pestanas #contacto {
     position: absolute;
@@ -576,20 +582,20 @@ a.acerca {
 
 #pestanas #notas {
     position: absolute;
-    right: 0;
+    right: 175px;
     top: -87px;
     background: none;
     border: none;
 }
 
-#notas {
+#pestanas #notas {
     background: #95a981;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     -o-border-radius: 4px;
     -ms-border-radius: 4px;
     border-radius: 4px;
-    padding: 0.1em 0.8em;
+    padding: 0.1em 1.8em;
     box-shadow: 2px 3px 5px #888;
 }
 
@@ -619,11 +625,13 @@ a.acerca {
     margin: 0px 2% 0 0px;
     background: #d91c5c;
     padding: 10px 15px;
-    width: 32%;
+    width: 23.5%;
     position: relative;
 }
 #nosotros-pestanas li:last-child {
     margin-right: 0;
+    padding: 0 15px;
+    font-size: 0.8em;
 }
 #nosotros-pestanas li.active {
     background-color: #9e1f62;

@@ -10,7 +10,10 @@ get_header(); ?>
         <li id="pestana1" class="active"><a href="#">¿Quienes somos?</a></li>
         <li id="pestana2"><a href="#">Objetivos y políticas</a></li>
         <li id="pestana3"><a href="#">Perfiles</a></li>
+        <li id="pestana4"><a href="#">Sistema de gestión de calidad</a></li>
     </ul>
+
+
     <div id="quienesSomos" class="cpestana1">
         <div class="descripcion"><!--h2.title ¿QUIENES SOMOS?--><p class="text">Para el año 2016: La Institución
                 Educativa Madre Gabriela
@@ -73,6 +76,9 @@ get_header(); ?>
                 <p class="pull-right">Objetivos y políticas</p></div>
         </div>
     </div>
+
+
+
     <div id="objPol" class="cpestana2"><!--h2.title OBJETIVOS Y POLÍTICAS-->
         <div id="objCalidad"><h3 class="title">OBJETIVOS DE CALIDAD</h3>
             <ul>
@@ -120,6 +126,9 @@ get_header(); ?>
                 <p class="pull-right">Perfiles</p></div>
         </div>
     </div>
+
+
+
     <div id="perfiles" class="cpestana3"><!--h2.title PERFILES-->
         <div id="estudiante"><h3 class="title">PERFIL DEL ESTUDIANTE</h3>
 
@@ -171,6 +180,17 @@ get_header(); ?>
                 <p class="pull-left">Objetivos y políticas</p></div>
         </div>
     </div>
+
+
+
+
+    <div id="sgc" class="cpestana4">
+        <div id="sgc_content">
+
+        </div>
+
+    </div>
+
   </main>
 </div>
 <?php get_footer(); ?>
