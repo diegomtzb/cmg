@@ -26,16 +26,8 @@
       <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="6" selection-start="780" selection-end="780" vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="510">
-              <folding>
-                <marker date="1414518388159" expanded="true" signature="22:779" placeholder="..." />
-                <marker date="1414518388159" expanded="true" signature="29:188" placeholder="..." />
-                <marker date="1414518388159" expanded="true" signature="195:779" placeholder="..." />
-                <marker date="1414518388159" expanded="true" signature="219:779" placeholder="..." />
-                <marker date="1414518388159" expanded="true" signature="247:444" placeholder="..." />
-                <marker date="1414518388159" expanded="true" signature="296:430" placeholder="..." />
-                <marker date="1414518388159" expanded="true" signature="468:772" placeholder="..." />
-              </folding>
+            <state line="24" column="6" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="510">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -43,7 +35,7 @@
       <file leaf-file-name="nosotros.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/nosotros.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="187" column="28" selection-start="8979" selection-end="8990" vertical-scroll-proportion="-8.25" vertical-offset="2750" max-vertical-offset="3417">
+            <state line="187" column="28" selection-start="8979" selection-end="8990" vertical-scroll-proportion="0.0" vertical-offset="2750" max-vertical-offset="3417">
               <folding />
             </state>
           </provider>
@@ -52,7 +44,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="388" column="22" selection-start="8480" selection-end="8480" vertical-scroll-proportion="0.36" vertical-offset="6371" max-vertical-offset="17680">
+            <state line="388" column="22" selection-start="8480" selection-end="8480" vertical-scroll-proportion="0.34562212" vertical-offset="6371" max-vertical-offset="17680">
               <folding />
             </state>
           </provider>
@@ -61,7 +53,7 @@
       <file leaf-file-name="readme.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="4" selection-start="6173" selection-end="6173" vertical-scroll-proportion="-15.115385" vertical-offset="1001" max-vertical-offset="1768">
+            <state line="82" column="4" selection-start="6173" selection-end="6173" vertical-scroll-proportion="0.0" vertical-offset="1001" max-vertical-offset="1768">
               <folding />
             </state>
           </provider>
@@ -70,7 +62,7 @@
       <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="152" column="38" selection-start="4336" selection-end="4336" vertical-scroll-proportion="-15.038462" vertical-offset="2193" max-vertical-offset="2805">
+            <state line="152" column="38" selection-start="4336" selection-end="4336" vertical-scroll-proportion="0.0" vertical-offset="2193" max-vertical-offset="2805">
               <folding />
             </state>
           </provider>
@@ -79,7 +71,7 @@
       <file leaf-file-name="contact.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="21" selection-start="1325" selection-end="1325" vertical-scroll-proportion="-7.0384617" vertical-offset="446" max-vertical-offset="1071">
+            <state line="39" column="21" selection-start="1325" selection-end="1325" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1105">
               <folding />
             </state>
           </provider>
@@ -239,7 +231,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../caribean" />
     <property name="FullScreen" value="false" />
     <property name="options.lastSelected" value="settings" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -299,27 +291,27 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20705521" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20705521" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -341,6 +333,48 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="6" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/nosotros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="187" column="28" selection-start="8979" selection-end="8990" vertical-scroll-proportion="0.0" vertical-offset="2750" max-vertical-offset="3417">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="388" column="22" selection-start="8480" selection-end="8480" vertical-scroll-proportion="0.0" vertical-offset="6371" max-vertical-offset="17680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="4" selection-start="6173" selection-end="6173" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1768">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="38" selection-start="4336" selection-end="4336" vertical-scroll-proportion="0.0" vertical-offset="2193" max-vertical-offset="2805">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="21" selection-start="1325" selection-end="1325" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="40" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
@@ -407,57 +441,47 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/applications.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="261" column="21" selection-start="6024" selection-end="6024" vertical-scroll-proportion="0.33333334" vertical-offset="4227" max-vertical-offset="6290">
-          <folding />
-        </state>
+        <state line="261" column="21" selection-start="6024" selection-end="6024" vertical-scroll-proportion="0.33333334" vertical-offset="4227" max-vertical-offset="6290" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="38" selection-start="4336" selection-end="4336" vertical-scroll-proportion="-15.038462" vertical-offset="2193" max-vertical-offset="2805">
+        <state line="152" column="38" selection-start="4336" selection-end="4336" vertical-scroll-proportion="0.0" vertical-offset="2193" max-vertical-offset="2805">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="21" selection-start="1325" selection-end="1325" vertical-scroll-proportion="-7.0384617" vertical-offset="446" max-vertical-offset="1071">
+        <state line="39" column="21" selection-start="1325" selection-end="1325" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1105">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="4" selection-start="6173" selection-end="6173" vertical-scroll-proportion="-15.115385" vertical-offset="1001" max-vertical-offset="1768">
+        <state line="82" column="4" selection-start="6173" selection-end="6173" vertical-scroll-proportion="0.0" vertical-offset="1001" max-vertical-offset="1768">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="6" selection-start="780" selection-end="780" vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="510">
-          <folding>
-            <marker date="1414518388159" expanded="true" signature="22:779" placeholder="..." />
-            <marker date="1414518388159" expanded="true" signature="29:188" placeholder="..." />
-            <marker date="1414518388159" expanded="true" signature="195:779" placeholder="..." />
-            <marker date="1414518388159" expanded="true" signature="219:779" placeholder="..." />
-            <marker date="1414518388159" expanded="true" signature="247:444" placeholder="..." />
-            <marker date="1414518388159" expanded="true" signature="296:430" placeholder="..." />
-            <marker date="1414518388159" expanded="true" signature="468:772" placeholder="..." />
-          </folding>
+        <state line="24" column="6" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="510">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/nosotros.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="187" column="28" selection-start="8979" selection-end="8990" vertical-scroll-proportion="-8.25" vertical-offset="2750" max-vertical-offset="3417">
+        <state line="187" column="28" selection-start="8979" selection-end="8990" vertical-scroll-proportion="0.0" vertical-offset="2750" max-vertical-offset="3417">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/colegio-madre-gabriela/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="388" column="22" selection-start="8480" selection-end="8480" vertical-scroll-proportion="0.36" vertical-offset="6371" max-vertical-offset="17680">
+        <state line="388" column="22" selection-start="8480" selection-end="8480" vertical-scroll-proportion="0.34562212" vertical-offset="6371" max-vertical-offset="17680">
           <folding />
         </state>
       </provider>
