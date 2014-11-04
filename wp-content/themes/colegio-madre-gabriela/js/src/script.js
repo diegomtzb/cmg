@@ -75,12 +75,23 @@ $(document).ready(function() {
         e.preventDefault();
         categories_li.removeClass("active");
         $( this ).addClass("active");
-        clr_backgr = $(this).css("background-color");
-        categories_div.css("background-color", clr_backgr);
-        categories_div.find("p").css("color", "white");
-        $tabsCategories_li.css("background-color", clr_backgr);
-        lecturasSection.css("border-top", "11px solid " + clr_backgr);
-        lecturasSection.css("border-bottom", "11px solid " + clr_backgr);
+        if ($( this).find("a").html()=="Participación democrática"){
+            clr_backgr = "#8bc63e";
+            categories_div.css("background-color", clr_backgr);
+            categories_div.find("p").css("color", "white");
+
+            $tabsCategories_li.css("background-color", clr_backgr);
+            lecturasSection.css("border-top", "11px solid " + clr_backgr);
+            lecturasSection.css("border-bottom", "11px solid " + clr_backgr);
+        }else{
+            clr_backgr = $(this).css("background-color");
+            categories_div.css("background-color", clr_backgr);
+            categories_div.find("p").css("color", "white");
+
+            $tabsCategories_li.css("background-color", clr_backgr);
+            lecturasSection.css("border-top", "11px solid " + clr_backgr);
+            lecturasSection.css("border-bottom", "11px solid " + clr_backgr);
+        }
 
     });
 

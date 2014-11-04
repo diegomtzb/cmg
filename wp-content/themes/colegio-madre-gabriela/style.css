@@ -333,6 +333,19 @@ main section h4 {
     -o-border-radius: 3px;
     -ms-border-radius: 3px;
     border-radius: 3px;
+    position: relative;
+}
+
+#categories >ul > li.active:after {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 0 10px 17px;
+    border-color: transparent transparent transparent #007bff;
+    content: "";
+    position: absolute;
+    right: -17px;
+    top: 12px;
 }
 #categories >ul > li > a {
     color: white;
@@ -341,20 +354,35 @@ main section h4 {
     background-color: white;
     border: 1px solid #8bc63e;
 }
+#categories #pDemocratica:after{
+    border-color: transparent transparent transparent #8bc63e;
+}
 #categories #pdemocratica a{
     color: #8bc63e;
 }
 #categories #entorno {
     background-color: #1a9b4c;
 }
+#categories #entorno:after{
+    border-color: transparent transparent transparent #1a9b4c;
+}
 #categories #miCuerpo {
     background-color: #E71D72;
+}
+#categories #miCuerpo:after{
+    border-color: transparent transparent transparent #E71D72;
 }
 #categories #cartagenero {
     background-color: #F9B234;
 }
+#categories #cartagenero:After{
+    border-color: transparent transparent transparent #F9B234;
+}
 #categories #misamigosyyo {
     background-color: #36A9E1;
+}
+#categories #misamigosyyo:after{
+    border-color: transparent transparent transparent #36A9E1;
 }
 #tabs-categories {
     padding-left: 0px;
