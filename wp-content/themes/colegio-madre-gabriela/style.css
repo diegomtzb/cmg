@@ -231,6 +231,13 @@ main section h4 {
 .back {
     width: 80%;
     margin: auto;
+    color: #668049;
+    text-decoration: none;
+}
+.back:hover{
+    color: #668049;
+    text-decoration: underline;
+    background: transparent;
 }
 .sideCatDesc {
     margin: 4px 0 20px;
@@ -638,7 +645,8 @@ a.acerca {
 #nosotros-pestanas li:last-child {
     margin-right: 0;
     padding: 0 15px;
-    font-size: 0.8em;
+    font-size: 1em;
+    line-height: 1.15em;
 }
 #nosotros-pestanas li.active {
     background-color: #9e1f62;
