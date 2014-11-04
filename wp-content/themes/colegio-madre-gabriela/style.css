@@ -305,7 +305,7 @@ main section h4 {
 }
 #categories > div {
     background-color: #b6cfaa;
-    height: 202px;
+    height: 256px;
 }
 #categories > div > p {
     font-size: 1.4em;
@@ -331,16 +331,23 @@ main section h4 {
     color: white;
 }
 #categories #pDemocratica {
-    background-color: #8bc63e;
+    background-color: white;
+    border: 1px solid #8bc63e;
+}
+#categories #pdemocratica a{
+    color: #8bc63e;
 }
 #categories #entorno {
     background-color: #1a9b4c;
 }
 #categories #miCuerpo {
-    background-color: #12a79d;
+    background-color: #E71D72;
 }
 #categories #cartagenero {
-    background-color: #0c5487;
+    background-color: #F9B234;
+}
+#categories #misamigosyyo {
+    background-color: #36A9E1;
 }
 #tabs-categories {
     padding-left: 0px;
@@ -814,9 +821,10 @@ textarea {
     left: 10px;
 }
 
-
-
-
+.correccion{
+    font-size: 1.5em !important;
+    line-height: 1em;
+}
 
 
 .bubble
