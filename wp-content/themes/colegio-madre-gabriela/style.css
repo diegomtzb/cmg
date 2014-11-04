@@ -379,10 +379,10 @@ main section h4 {
     border-color: transparent transparent transparent #F9B234;
 }
 #categories #misamigosyyo {
-    background-color: #36A9E1;
+    background-color: #A7181E;
 }
 #categories #misamigosyyo:after{
-    border-color: transparent transparent transparent #36A9E1;
+    border-color: transparent transparent transparent #A7181E;
 }
 #tabs-categories {
     padding-left: 0px;
@@ -628,6 +628,7 @@ a.acerca {
     top: -87px;
     background: none;
     border: none;
+    display: none;
 }
 
 #pestanas #notas {
