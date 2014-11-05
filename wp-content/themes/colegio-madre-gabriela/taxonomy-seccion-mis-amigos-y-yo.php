@@ -1,6 +1,6 @@
 <?php
-$catDescription = "Capacitar a la comunidad gabrielina en lo concerniente al
-patrimonio histórico cultural, como desarrollo de un pueblo.";
+$catDescription = "Desarrollar competencias ciudadanas, implementando formas
+de convivir para estar satisfechos consigo mismo y con los demás.";
 
 include('templates/secciones-template.php');
 

@@ -773,6 +773,15 @@ a.acerca {
 #estrategias-section .cuerpo {
     color: #000;
 }
+#estrategias-section figure img{
+    width: 75%;
+}
+.gotMarginLeft{
+    margin-left: 15%;
+}
+.gotMarginTop{
+    margin-top: 4em;
+}
 #contacto-section .titulo {
     color: #668049;
     font-size: 1.7em;

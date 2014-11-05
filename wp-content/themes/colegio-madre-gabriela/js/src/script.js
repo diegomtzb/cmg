@@ -11,7 +11,7 @@ $(document).ready(function() {
     var $tabsCategories_li = $tabsCategories.find("li");
     var $tabsCategories_li_a = $tabsCategories_li.find("a");
     $tabsCategories_li.click(function(e){
-        e.preventDefault();
+        //e.preventDefault();
         $tabsCategories_li.removeClass("active");
         $( this ).addClass("active");
     });
