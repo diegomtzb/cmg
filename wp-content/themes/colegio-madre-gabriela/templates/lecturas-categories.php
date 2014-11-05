@@ -8,6 +8,7 @@ if(empty($currentSection) or in_array($currentSection, $skip)) {
 }
 $root = get_bloginfo('home') . '/lecturas/';
 ?>
+
 <div id="categories">
     <ul class="pull-left col-lg-4">
         <li id="pDemocratica"><a href="<?= $root; ?>participacion-democratica/">Participación democrática</a></li>
