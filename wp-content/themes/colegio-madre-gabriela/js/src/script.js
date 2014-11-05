@@ -11,9 +11,10 @@ $(document).ready(function() {
     var $tabsCategories_li = $tabsCategories.find("li");
     var $tabsCategories_li_a = $tabsCategories_li.find("a");
     $tabsCategories_li.click(function(e){
-        //e.preventDefault();
+        e.preventDefault();
         $tabsCategories_li.removeClass("active");
         $( this ).addClass("active");
+        //window.location.href="/?categoria=barrilete";
     });
 
     var resalt = $(".resalt");
@@ -66,6 +67,7 @@ $(document).ready(function() {
         cambiarPestanna(cpestanna);
     });
 
+    /*
     var categories = $("#categories");
     var categories_li = categories.find("li");
     var categories_li_a = categories_li.find("a");
@@ -73,7 +75,6 @@ $(document).ready(function() {
     var lecturasSection = $("#lecturas-section");
 
     categories_li.click(function(e){
-        /*
         e.preventDefault();
 
         //window.location.href = 'www.google.com';
@@ -100,10 +101,11 @@ $(document).ready(function() {
             lecturasSection.css("border-top", "11px solid " + clr_backgr);
             lecturasSection.css("border-bottom", "11px solid " + clr_backgr);
         }
-        */
+
 
 
     });
+    */
 
 });
 
