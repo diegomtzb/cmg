@@ -14,12 +14,15 @@ $root = get_bloginfo('home') . '/lecturas/';
         <li id="entorno"><a href="<?= $root; ?>mi-entorno/">Mi entorno</a></li>
         <li id="miCuerpo"><a href="<?= $root; ?>cuido-mi-cuerpo/">Cuido mi cuerpo</a></li>
         <li id="cartagenero"><a href="<?= $root; ?>cartagenero-soy/">Cartagenero soy</a></li>
-        <li id="misamigosyyo"><a href="<?= $root; ?>mis-amigos/">Mis amigos y yo</a></li>
+        <li id="misamigosyyo"><a href="<?= $root; ?>mis-amigos-y-yo/">Mis amigos y yo</a></li>
     </ul>
     <div class="pull-left col-lg-8">
-        <p>
+        <p id="proj_par">
             <?php if(isset($catDescription)) echo $catDescription; ?>
         </p>
+        <figure id="proj_figure">
+            <img src=""/>
+        </figure>
     </div>
 </div>
 <ul id="tabs-categories">

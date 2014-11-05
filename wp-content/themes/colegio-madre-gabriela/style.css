@@ -863,6 +863,18 @@ textarea {
     line-height: 1em;
 }
 
+#proj_figure{
+    overflow: hidden;
+}
+
+#proj_figure img{
+    width: 100%;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
 
 .bubble
 {

@@ -71,8 +71,16 @@ $(document).ready(function() {
     var categories_li_a = categories_li.find("a");
     var categories_div = categories.find("> div");
     var lecturasSection = $("#lecturas-section");
+
     categories_li.click(function(e){
+        /*
         e.preventDefault();
+
+        //window.location.href = 'www.google.com';
+
+        //window.location.href="mi-entorno";
+
+
         categories_li.removeClass("active");
         $( this ).addClass("active");
         if ($( this).find("a").html()=="Participación democrática"){
@@ -92,6 +100,8 @@ $(document).ready(function() {
             lecturasSection.css("border-top", "11px solid " + clr_backgr);
             lecturasSection.css("border-bottom", "11px solid " + clr_backgr);
         }
+        */
+
 
     });
 

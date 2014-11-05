@@ -1,6 +1,6 @@
 <?php
-$catDescription = "Cuido mi cuerpo y tomo decisiones responsables y autónomas
-basadas en el respeto y la dignidad del ser humano.";
+$catDescription = "Capacitar a la comunidad gabrielina en lo concerniente al
+patrimonio histórico cultural, como desarrollo de un pueblo.";
 
 include('templates/secciones-template.php');
 
@@ -13,7 +13,7 @@ include('templates/secciones-template.php');
     var categories_li = categories.find("li");
     var categories_div = categories.find("> div");
     var lecturasSection = $("#lecturas-section");
-    var this_cat = $("#miCuerpo");
+    var this_cat = $("#misamigosyyo");
 
     categories_li.removeClass("active");
     this_cat.addClass("active");
@@ -32,6 +32,6 @@ include('templates/secciones-template.php');
 
     parrafo.addClass("col-sm-7");
     figure.addClass("col-sm-5");
-    img.attr('src', '<?php stylesheetUri(); ?>imgs/icon3.png');
+    img.attr('src', '<?php stylesheetUri(); ?>imgs/icon5.png');
 
 </script>

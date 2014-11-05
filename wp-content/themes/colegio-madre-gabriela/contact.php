@@ -30,9 +30,13 @@
             <div class="info col-lg-7">
                 <ul class="col-lg-6">
                     <li class="titulo">Teléfonos:</li>
-                    <li>(+57 5) 656 7874</li>
-                    <li>(+57) 300 454 0036</li>
-                    <li>(+57) 300 479 6132</li>
+                    <li class="negrita">Sede Principal:</li>
+                    <li>653 3366</li>
+                    <li>646 0556</li>
+                    <li class="negrita">Sede Magdalena</li>
+                    <li>681 7086</li>
+                    <li class="negrita">Sede 10 de Mayo</li>
+                    <li>671 0589</li>
                 </ul>
                 <ul class="col-lg-6">
                     <li class="titulo">Email:</li>
@@ -40,7 +44,7 @@
                 </ul>
                 <div class="dir col-lg-12"><p class="titulo">Dirección:</p>
 
-                    <p>Duis ut purus hendrerit, pulvinar tortor id, congue lacus. Integer ultricies
+                    <p>Barrio Olaya Herrera calle 33 # 77-48
                         Cartagena - Colombia
                     </p></div>
             </div>
