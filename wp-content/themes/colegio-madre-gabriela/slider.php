@@ -13,7 +13,7 @@
                 if(!empty($gallery)){
                     foreach($gallery as $img){
                         echo '<li>';
-                        echo '<img src="' . $img .'" class="sliderImg"/>';
+                        echo '<img title="' . get_post(get_post_thumbnail_id())->post_title .'" src="' . $img .'" class="sliderImg"/>';
                         echo '</li>';
                     }
                 }
